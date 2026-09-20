@@ -30,6 +30,6 @@ Install as a Claude Code plugin:
 
 | Skill | What it does |
 | --- | --- |
-| `jev-fit-review` | Reviews a project and reports where TypeSafe's Jev model fits and where it does not. |
+| `jev-fit-review` | Audits software for closed-set decisions where TypeSafe's Jev model fits, with evidence and explicit non-fits. |
 | `engineering-leadership` | Applies Raunak's engineering leadership principles to engineering decisions and delivery. |
 | `buildwright-philosophy` | Applies Buildwright's lightweight engineering discipline to implementation and review work. |
